@@ -1,4 +1,16 @@
 {
+    "name": "hankz1108/laravel-audit-logs",
+    "description": "A Laravel package that automatically generates an Audit Log",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hank",
+            "email": "hankz1108@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {},
     "require-dev": {
         "orchestra/testbench": "^6.38"
     }
